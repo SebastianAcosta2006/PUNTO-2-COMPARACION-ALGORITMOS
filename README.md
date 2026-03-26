@@ -3,7 +3,7 @@ En este ejercicio se implementó y comparó el rendimiento de dos algoritmos de 
 <img width="1280" height="800" alt="COMPARACIONES DE ALGORITMOS DEFINITIVO" src="https://github.com/user-attachments/assets/0e698500-9908-47c9-bd50-8b0732e95bb2" />
 
 El algoritmo CYK con complejidad O(n³)
-Un parser predictivo LL(1) con complejidad O(n)![Uploading COMPARACIONES DE ALGORITMOS DEFINITIVO.png…]()
+Un parser predictivo LL(1) con complejidad O(n)
 
 
 El objetivo principal es analizar experimentalmente la diferencia de rendimiento entre ambos algoritmos al procesar cadenas de diferentes tamaños y los 
